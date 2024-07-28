@@ -1,0 +1,21 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 50px;
+    background-color:rgb(247, 188, 161);
+}
+h1, h2{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 20px;
+    color: rgb(48, 14, 236);
+    text-align: center;
+}
+header{
+    background-color: azure;
+    height: auto;
+    padding: auto;
+}
+footer{
+    background-color: aqua;
+    height: auto;
+    padding: auto;
+}
